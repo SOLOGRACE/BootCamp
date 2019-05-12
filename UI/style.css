@@ -1,0 +1,29 @@
+body{
+   background-color: aquamarine;
+}
+.container{
+    color: black;
+    size: 50px;
+    margin: 50px;
+
+}
+
+li{
+    display: inline;
+    margin-left: 50px;
+    padding-right: 50px;
+    text-decoration-line: none;
+    color:black"
+    
+}
+img{
+    width: 200px;
+    height: 140px;
+    margin-top: 100px;
+}
+#header{
+
+}
+form{
+    text-align: left;
+}
